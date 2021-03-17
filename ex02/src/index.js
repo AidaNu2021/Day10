@@ -14,5 +14,6 @@ function dotNotation(myClothes) {
     var schoesValue = myClothes.shoes
     return { hatValue, shirtValue, schoesValue };
 }
+
 console.log(dotNotation(myClothes));
 module.exports = myFunction(myClothes);
